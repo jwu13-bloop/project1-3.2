@@ -32,10 +32,10 @@ body{
     color: rgb(179, 255, 0);
     background-color: rgba(0, 34, 255, 0.354);
     border-radius: 100%;
-    font-size: 50px;
+    font-size: 30px;
     text-decoration: none;
     position: fixed;
-    padding: 2%;
+    padding: 10px;
     right: 5%;
     bottom: 10%;
 }
