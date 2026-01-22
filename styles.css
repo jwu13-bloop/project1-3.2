@@ -131,6 +131,7 @@ body{
     z-index: 0;
 }
 
+/* animation ref: https://www.w3schools.com/css/css3_animations.asp*/
 
 @keyframes floatUpDown {
     0% {
